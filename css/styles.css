@@ -1,7 +1,9 @@
 
 
 body {
-	background-color: #b3b1a2;
+	background: 
+		/* linear-gradient(to top right, #b3b1a2 50%, #eaffef 99%) */
+	  linear-gradient(to top right, #eaffef 2%, #b3b1a2 45%, #eaffef 99%);
 }
 
 h1,
@@ -17,8 +19,18 @@ h1 {
 	font-size: 80px;
 }
 
+header h6 {
+	font-size: 24px;
+	font-weight: 600;
+}
+
+h4 {
+	letter-spacing: 2px;
+	font-size: 24px;
+}
+
 p {
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 28px;
 	color: #071a24;
 }
