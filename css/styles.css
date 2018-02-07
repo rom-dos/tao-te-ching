@@ -35,8 +35,12 @@ header {
 
 p {
 	font-size: 16px;
-	line-height: 28px;
-	color: #071a24;
+	line-height: 32px;
+	/* color: #071a24; */
+	color: #081528;
+}
+.row p {
+	max-width: 420px;
 }
 
 .navbar {
