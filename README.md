@@ -8,7 +8,8 @@
 [x] input all chapter text
 *1:17 10 II 2018*
 
-[ ] translator info?
+[x] translator info
+*1:25 10 II 2018*
 
 [ ] original chinese txt version
 
