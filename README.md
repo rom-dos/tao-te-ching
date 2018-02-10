@@ -5,7 +5,8 @@
 [x] change all chapter titles to numerals
 *17:58 7 II 2018*
 
-[ ] input all chapter text
+[x] input all chapter text
+*1:17 10 II 2018*
 
 [ ] translator info?
 
