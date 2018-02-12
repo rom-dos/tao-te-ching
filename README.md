@@ -15,8 +15,10 @@
 
 [ ] navbar
 
-( ) animate.css + wow.js?
+[ ] animate.css + wow.js?
 
 [ ] proofread text?
 
 [ ] adjust `linear-gradient` after txt is finalized
+
+[ ] chapter links?
