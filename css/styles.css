@@ -26,7 +26,7 @@ header h6 {
 
 h4 {
 	letter-spacing: 2px;
-	font-size: 24px;
+	font-size: 40px;
 }
 
 header {
@@ -45,4 +45,12 @@ p {
 
 .navbar {
 	background: transparent !important;
+}
+
+.collapse a {
+	color: white;
+}
+#navbarToggleExternalContent div {
+	background-color: #071a24 !important;
+	height: 240px;
 }

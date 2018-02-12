@@ -11,14 +11,19 @@
 [x] translator info
 *1:25 10 II 2018*
 
+[x] animate.css + wow.js
+*0:43 12 II 2018*
+
 [ ] original chinese txt version
 
 [ ] navbar
-
-[ ] animate.css + wow.js?
 
 [ ] proofread text?
 
 [ ] adjust `linear-gradient` after txt is finalized
 
 [ ] chapter links?
+
+[ ] revise wow animations?
+
+[ ] footer
