@@ -3,7 +3,7 @@
 body {
 	background: 
 		/* linear-gradient(to top right, #b3b1a2 50%, #eaffef 99%) */
-	  linear-gradient(to top right, #eaffef 1%, #b3b1a2 85%, #eaffef 99%);
+	  linear-gradient(to top right, #eaffef 1%, #b3b1a2 75%, #eaffef 99%);
 }
 
 h1,
@@ -31,6 +31,13 @@ h4 {
 
 header {
 	margin-top: 120px !important;
+}
+
+#one-nine {
+	background: linear-gradient(to top right, #eaffef 1%, #b3b1a2 75%, #eafef 99%) !important;
+}
+#ten-eighteen {
+	background: linear-gradient(to top right, #9ebfd1, #071a24);
 }
 
 p {
