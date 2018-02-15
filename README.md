@@ -30,6 +30,10 @@
 
 [ ] package.json  
  
-[ ] .gitignore   
+[x] .gitignore   
 
-[ ] remove any relevant files from repo
+[x] remove any relevant files from repo  
+
+[ ] assets folder  
+[ ] move this "TO DO" list to GitHub projects
+[ ] move all dependencies as node modules?

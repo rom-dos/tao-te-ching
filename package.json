@@ -1,0 +1,18 @@
+{
+	"name": "tao-te-ching",
+	"version": "0.0.2",
+	"description": "Mobile-friendly, interactive Tao Te Ching.",
+	"keywords": [
+		"tao te ching", 
+		"lao tzu", 
+		"taoism",  
+		"i ching",
+		"chinese mysticism"
+	],
+	"repository": "https://github.com/rom-dos/tao-te-ching.git",
+	"dependencies": {
+		"animate.css": "3.6.1",
+		"bootstrap": "4.0.0",
+		"wowjs": "1.1.3"
+	}
+}
