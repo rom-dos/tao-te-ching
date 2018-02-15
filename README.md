@@ -26,4 +26,10 @@
 
 [ ] revise wow animations?
 
-[ ] footer
+[ ] footer  
+
+[ ] package.json  
+ 
+[ ] .gitignore   
+
+[ ] remove any relevant files from repo
