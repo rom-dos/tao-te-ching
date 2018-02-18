@@ -32,7 +32,7 @@ header {
 }
 
 #one-nine {
-  padding-top: 120px;
+  padding-top: 120px; 
 	background: linear-gradient(to top right, #b3b1a2 89%, #eaffef 99%) !important;
 }
 #ten-eighteen {
@@ -79,5 +79,5 @@ p {
 }
 #navbarToggleExternalContent div {
 	background-color: #071a24 !important;
-	height: 240px;
+	height: 160px;
 }
