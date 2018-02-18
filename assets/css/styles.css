@@ -6,6 +6,8 @@ body {
 	font-family: sans-serif;
 }
 
+/* HEADINGS */
+
 h1,
 h2,
 h3,
@@ -16,11 +18,11 @@ h6 {
 }
 
 h1 {
-	font-size: 80px;
+	font-size: 40px;
 }
 
 header h6 {
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 600;
 }
 
@@ -29,9 +31,10 @@ h4 {
 	font-size: 40px;
 }
 
-header {
-	/* margin-top: 120px !important; */
-}
+/* ================
+   Chapter Sections
+	 ================
+*/
 
 #one-nine {
   padding-top: 120px; 
@@ -63,13 +66,19 @@ header {
 }
 
 p {
-	font-size: 16px;
-	line-height: 32px;
+	font-size: 14px;
+	line-height: 26px;
 	/* color: #071a24; */
 	color: #081528;
 }
 .row p {
 	max-width: 420px;
+}
+
+.yin-yin {
+	font-size: 20px;
+	margin-bottom: 0;
+	position: relative;
 }
 
 .navbar {
