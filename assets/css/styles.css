@@ -2,6 +2,8 @@ body {
 	background: black;
 		/* linear-gradient(to top right, #b3b1a2 50%, #eaffef 99%) */
 	  /* linear-gradient(to top right, #eaffef 1%, #b3b1a2 85%, #eaffef 99%); */ 
+
+	font-family: sans-serif;
 }
 
 h1,
