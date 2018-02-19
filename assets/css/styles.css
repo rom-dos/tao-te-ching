@@ -40,9 +40,15 @@ h4 {
   padding-top: 120px; 
 	background: linear-gradient(to top right, #b3b1a2 89%, #eaffef 99%) !important;
 }
+
 #ten-eighteen {
-	background: linear-gradient(to top right, #9ebfd1, #071a24);
+	background: linear-gradient(to top right, #492D7B 89%, #B9D587 99%);
 }
+#ten-eighteen p,
+#ten-eighteen h4 {
+	color: #B9D587;
+}
+
 #nineteen-twenty-seven {
 
 }
