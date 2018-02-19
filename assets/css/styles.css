@@ -38,15 +38,22 @@ h4 {
 
 #one-nine {
   padding-top: 120px; 
-	background: linear-gradient(to top right, #b3b1a2 83%, #eaffef) !important;
+	background: linear-gradient(to top right, #E2E6DC 83%, #1F1B25);
+}
+
+h1,
+h6,
+#one-nine p,
+#one-nine h4 {
+	color: #1F1B25;
 }
 
 #ten-eighteen {
-	background: linear-gradient(to top right, #492D7B 83%, #B9D587);
+	background: linear-gradient(to top right, #C8D4C7 83%, #3A2E3B);
 }
 #ten-eighteen p,
 #ten-eighteen h4 {
-	color: #B9D587;
+	color: #3A2E3B;
 }
 
 #nineteen-twenty-seven {
@@ -58,28 +65,52 @@ h4 {
 }
 
 #twenty-eight-thirty-six {
-	background: linear-gradient(to top right, #1C3E6D 83%, #E0BE8F);
+	background: linear-gradient(to top right, #ADDACC 83%, #552836);
 }
 #twenty-eight-thirty-six p,
 #twenty-eight-thirty-six h4 {
-	color: #E0BE8F;
+	color: #552836;
 }
-
 
 #thirty-seven-forty-five {
-
+	background: linear-gradient(to top right, #71383A 83%, #91CAC8);
 }
+#thirty-seven-forty-five p,
+#thirty-seven-forty-five h4 {
+	color: #91CAC8;
+}
+
 #forty-six-fifty-four {
-
+	background: linear-gradient(to top right, #EBFBCE 83%, #160834);
 }
+#forty-six-fifty-four p,
+#forty-six-fifty-four h4 {
+	color: #160834;
+}
+
+
 #fifty-five-sixty-three {
-
+	background: linear-gradient(to top right, #B0ACC0 83%, #525642);
 }
+#fifty-five-sixty-three p,
+#fifty-five-sixty-three h4 {
+	color: #525642;
+}
+
 #sixty-four-seventy-two {
-
+	background: linear-gradient(to top right, #E2D4B9 83%, #202E49);
 }
-#seventy-three-eighty-one {
+#sixty-four-seventy-two p,
+#sixty-four-seventy-two h4 {
+	color: #202E49;
+}
 
+#seventy-three-eighty-one {
+	background: linear-gradient(to top right, #8BB89E 83%, #774A64);
+}
+#seventy-three-eighty-one p,
+#seventy-three-eighty-one h4 {
+	color: #774A64;
 }
 
 p {
