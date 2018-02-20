@@ -163,6 +163,10 @@ p.text-right.yin-yin {
 	margin-right: 10px;
 }
 
+.yin-yin a {
+	color: inherit;
+}
+
 .navbar {
 	background: transparent !important;
 }
