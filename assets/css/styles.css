@@ -38,6 +38,7 @@ h4 {
 
 #one-nine {
   padding-top: 120px; 
+	padding-bottom: 80px;
 	background: linear-gradient(to top right, #E2E6DC 83%, #1F1B25);
 }
 
@@ -50,6 +51,7 @@ h6,
 
 #ten-eighteen {
 	background: linear-gradient(to top right, #C8D4C7 83%, #3A2E3B);
+	padding-bottom: 80px;
 }
 #ten-eighteen p,
 #ten-eighteen h4 {
@@ -62,6 +64,7 @@ h6,
 
 #nineteen-twenty-seven {
 	background: linear-gradient(to top right, #C8B6B9 83%, #3A4C49);
+	padding-bottom: 80px; 
 }
 #nineteen-twenty-seven p,
 #nineteen-twenty-seven h4 {
@@ -74,7 +77,9 @@ h6,
 
 #twenty-eight-thirty-six {
 	background: linear-gradient(to top right, #ADDACC 83%, #552836);
+	padding-bottom: 80px;
 }
+
 #twenty-eight-thirty-six p,
 #twenty-eight-thirty-six h4 {
 	color: #552836;
@@ -86,6 +91,7 @@ h6,
 
 #thirty-seven-forty-five {
 	background: linear-gradient(to top right, #71383A 83%, #91CAC8);
+	padding-bottom: 80px;
 }
 #thirty-seven-forty-five p,
 #thirty-seven-forty-five h4 {
@@ -98,6 +104,7 @@ h6,
 
 #forty-six-fifty-four {
 	background: linear-gradient(to top right, #EBFBCE 83%, #160834);
+	padding-bottom: 80px;
 }
 #forty-six-fifty-four p,
 #forty-six-fifty-four h4 {
@@ -110,6 +117,7 @@ h6,
 
 #fifty-five-sixty-three {
 	background: linear-gradient(to top right, #B0ACC0 83%, #525642);
+	padding-bottom: 80px;
 }
 #fifty-five-sixty-three p,
 #fifty-five-sixty-three h4 {
@@ -122,6 +130,7 @@ h6,
 
 #sixty-four-seventy-two {
 	background: linear-gradient(to top right, #E2D4B9 83%, #202E49);
+	padding-bottom: 80px;
 }
 #sixty-four-seventy-two p,
 #sixty-four-seventy-two h4 {
@@ -134,6 +143,7 @@ h6,
 
 #seventy-three-eighty-one {
 	background: linear-gradient(to top right, #8BB89E 83%, #774A64);
+	padding-bottom: 80px;
 }
 #seventy-three-eighty-one p,
 #seventy-three-eighty-one h4 {
