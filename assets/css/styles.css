@@ -175,6 +175,12 @@ p.text-right.yin-yin {
 	color: white;
 }
 #navbarToggleExternalContent div {
-	background-color: #071a24 !important;
+	background-color: #1F1B25 !important;
+	color: rgb(226, 230, 220);
 	height: 160px;
+}
+#navbarToggleExternalContent h4,
+#navbarToggleExternalContent a {
+	color: rgb(226, 230, 220) !important;
+
 }
