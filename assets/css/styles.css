@@ -200,6 +200,12 @@ footer {
 	margin: 0 auto;
 	margin-top: 80px;
 	margin-bottom: -80px;
-	border-top: 1px solid black;
+	border-top: 1px solid #1F1B25;
 	padding-top: 12px;
+}
+footer a {
+	color: #1F1B25;
+}
+footer a:hover {
+	color: #1F1B25;
 }
